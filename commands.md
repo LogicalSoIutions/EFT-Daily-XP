@@ -1,3 +1,11 @@
+## Overlay Setup
+
+![Step One](https://i.imgur.com/kOUcZvi.png)
+
+![Step...rest of them](https://i.imgur.com/XpMdsHw.png)
+
+![Okay last step](https://i.imgur.com/5Zn9Icy.png)
+
 ## Mod Commands
 ```
 !addxp 
